@@ -1,0 +1,10 @@
+C:\Users\mike\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Lib\bin\Debug\Lib.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Lib\bin\Debug\Lib.pdb
+C:\Users\mike\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Lib\obj\Debug\mike.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Lib\obj\Debug\Lib.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Lib\obj\Debug\Lib.pdb
+C:\Users\mike\Documents\Visual Studio 2015\Projects\Test\Lib\bin\Debug\Lib.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\Test\Lib\bin\Debug\Lib.pdb
+C:\Users\mike\Documents\Visual Studio 2015\Projects\Test\Lib\obj\Debug\mike.csprojResolveAssemblyReference.cache
+C:\Users\mike\Documents\Visual Studio 2015\Projects\Test\Lib\obj\Debug\Lib.dll
+C:\Users\mike\Documents\Visual Studio 2015\Projects\Test\Lib\obj\Debug\Lib.pdb
